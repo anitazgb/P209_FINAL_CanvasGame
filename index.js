@@ -66,7 +66,7 @@ var rockImage = new Image();
 rockImage.onload = function () {
     rockReady = true;
 };
-rockImage.src = "images/rock1.png"; 
+rockImage.src = "images/Rock.png"; 
 
 // done with load images ========================================================
 
